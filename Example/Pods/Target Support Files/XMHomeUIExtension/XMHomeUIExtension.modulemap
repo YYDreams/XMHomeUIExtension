@@ -1,0 +1,6 @@
+framework module XMHomeUIExtension {
+  umbrella header "XMHomeUIExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
