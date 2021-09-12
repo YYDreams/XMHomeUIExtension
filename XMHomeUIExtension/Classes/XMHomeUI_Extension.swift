@@ -9,7 +9,6 @@ import Foundation
 import XMMediator
 
 
-/// Public
 public extension XEMediator {
     
 
